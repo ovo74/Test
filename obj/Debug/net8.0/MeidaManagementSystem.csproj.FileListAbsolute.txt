@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MeidaManagementSystem\obj\Debug\net8.0\MeidaManagementSystem.RazorAssemblyInfo.cs
